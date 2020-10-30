@@ -1,0 +1,1 @@
+clearance = {"RS":"Reliability Status, Standard","ERS":"Reliability Status, Enhanced" }
